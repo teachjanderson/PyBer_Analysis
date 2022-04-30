@@ -12,26 +12,31 @@ Summary: Based on the results, provide three business recommendations to the CEO
 
 PyBer requested an analysis of ride-sharing data to determine the weekly fares for rural, suburban, and urban cities. By identifying total rides, drivers, fares and their averages, the analysis provides useful insights into differences among the city types. The purpose of identifying these differences will provide insights and recommedations for Pyber decision making. 
 
-
-## Overview and Purpose ##
-
-The 
-
 # Results
 
-The 
+The PyBer analysis revealed several differences between the three city types as seen in the table below. 
+ - Rural: There were 125 total rides in the dataset with a total of 78 drivers. The total fares are around ~$4,000 with an average cost of $34.62 per ride and an average fare of $55.49 per driver. 
+ - Suburban: There were 625 total rides in the dataset with a total of 490 drivers. The total fares are almost ~$20,000 with an average cost of $30.97 per ride and an average fare of $39.50 per driver. 
+ - Urban: There were 1,625 total rides in the dataset with a total of 2,405 drivers. The total fares are almost ~$40,000 with an average cost of $24.53 per ride and an average fare of $16.57 per driver. 
 
+<p align="center">
+<img src="https://github.com/teachjanderson/PyBer_Analysis/blob/45d3c16bce462534c1189ad0e74686ea1a7a3ff0/analysis/Ride-sharing.png" />
+
+    
+    
 ## District Summary ##
 
 The
 <p align="center">
-<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_District%20Summary.png" />
+<img src="https://github.com/teachjanderson/PyBer_Analysis/blob/45d3c16bce462534c1189ad0e74686ea1a7a3ff0/analysis/Ride-sharing.png" />
 
 
 
 ## School Summary ##
 
-The 
+The
+<p align="center">
+<img src="https://github.com/teachjanderson/School_District_Analysis/blob/main/images/A_District%20Summary.png" />
     
 **Top 5 Schools by Overall Passing**
 
