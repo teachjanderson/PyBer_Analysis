@@ -1,7 +1,5 @@
 ## PyBer Analysis ##
 
-
-
 Overview of the analysis: Explain the purpose of the new analysis. The purpose of the new analysis is well defined. (3 pt)
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
@@ -10,9 +8,12 @@ Summary: Based on the results, provide three business recommendations to the CEO
 
 # Pyber Ride-Sharing Data #
 
-The
+## Overview and Purpose ##
 
-# Overview and Purpose
+PyBer requested an analysis of ride-sharing data to determine the weekly fares for rural, suburban, and urban cities. By identifying total rides, drivers, fares and their averages, the analysis provides useful insights into differences among the city types. The purpose of identifying these differences will provide insights and recommedations for Pyber decision making. 
+
+
+## Overview and Purpose ##
 
 The 
 
