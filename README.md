@@ -12,7 +12,7 @@ Summary: Based on the results, provide three business recommendations to the CEO
 
 PyBer requested an analysis of ride-sharing data to determine the weekly fares for rural, suburban, and urban cities. By identifying total rides, drivers, fares and their averages, the analysis provides useful insights into differences among the city types. The purpose of identifying these differences will provide insights and recommedations for Pyber decision making in the areas of weekly fare pricing, access to ride sharing services, and affordability in different city types. This information is represented in the results section for dates ranging between January and April of 2019. 
 
-# Results
+# Results #
 
 **Overall Trends**
 
@@ -26,11 +26,19 @@ The PyBer analysis revealed several differences between the three city types as 
 
 **Weekly Fares**
  
- The multiple-line chart below shows weekly fares by city type for January to April in 2019. Of the three city types, the rural city type remains the most constant with the suburban and urban types showing more variability. 
+The multiple-line chart below shows weekly fares by city type for January to April in 2019. Of the three city types, the rural city type remains the most constant with the suburban and urban types showing more variability. However, all three types show a fairly consistent revenue amount with the urban type generating the most revenue followed by the suburban type. Within the date range, the urban type generated 7 to 9 times the amount of revenue of the suburban type and nearly 2 times the amount of the suburban. This is expected as the urban type is providing about 13 times the number of rides as the rural type and almost 3 times that of the suburban type. The fare difference of the types is considerable. While the rural area generates nearly 4 times the amount per ride as the urban type, the urban areas generate nearly 10 times as much revenue overall. This is expected as urban areas consist of more densely populated areas and greater demands for transportation than suburban and rural areas.  
  
  <p align="center">
 <img src="https://github.com/teachjanderson/PyBer_Analysis/blob/45d3c16bce462534c1189ad0e74686ea1a7a3ff0/analysis/PyBer_fare_summary.png" />
-    
+  
+**Conclusions**
+ - Urban cities generate the most revenue for PyBer
+ - Urban cities generate less per ride and drivers earn less per ride
+ - Suburban areas provide a middle-ground revenue source for PyBer that is half the Urban area but still a substantial amount
+ - Rural areas genereate the least revenue for PyBer but earn the most per ride
+  
+ 
+  
     
 
     
