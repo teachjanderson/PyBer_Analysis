@@ -10,7 +10,7 @@ Summary: Based on the results, provide three business recommendations to the CEO
 
 ## Overview and Purpose ##
 
-PyBer requested an analysis of ride-sharing data to determine the weekly fares for rural, suburban, and urban cities. By identifying total rides, drivers, fares and their averages, the analysis provides useful insights into differences among the city types. The purpose of identifying these differences will provide insights and recommedations for Pyber decision making in the areas of weekly fare pricing, access to ride sharing services, and affordability in different city types. This information is graphed in the results section for dates ranging between January and April of 2019. 
+PyBer requested an analysis of ride-sharing data to determine the weekly fares for rural, suburban, and urban cities. By identifying total rides, drivers, fares and their averages, the analysis provides useful insights into differences among the city types. The purpose of identifying these differences will provide insights and recommedations for Pyber decision making in the areas of weekly fare pricing, access to ride sharing services, and affordability in different city types. This information is represented in the results section for dates ranging between January and April of 2019. 
 
 # Results
 
@@ -25,6 +25,8 @@ The PyBer analysis revealed several differences between the three city types as 
 <img src="https://github.com/teachjanderson/PyBer_Analysis/blob/45d3c16bce462534c1189ad0e74686ea1a7a3ff0/analysis/Ride-sharing.png" />
 
 **Weekly Fares**
+ 
+ The multiple-line chart below shows weekly fares by city type for January to April in 2019. Of the three city types, the rural city type remains the most constant with the suburban and urban types showing more variability. 
  
  <p align="center">
 <img src="https://github.com/teachjanderson/PyBer_Analysis/blob/45d3c16bce462534c1189ad0e74686ea1a7a3ff0/analysis/PyBer_fare_summary.png" />
