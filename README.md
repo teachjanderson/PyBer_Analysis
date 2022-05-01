@@ -24,7 +24,7 @@ The PyBer analysis revealed several differences between the three city types as 
 <p align="center">
 <img src="https://github.com/teachjanderson/PyBer_Analysis/blob/45d3c16bce462534c1189ad0e74686ea1a7a3ff0/analysis/Ride-sharing.png" />
 
-**Weekly Fares**
+<u>**Weekly Fares**<u>
  
 The multiple-line chart below shows weekly fares by city type for January to April in 2019. Of the three city types, the rural city type remains the most constant with the suburban and urban types showing more variability. However, all three types show a fairly consistent revenue amount with the urban type generating the most revenue followed by the suburban type. Within the date range, the urban type generated 7 to 9 times the amount of revenue of the suburban type and nearly 2 times the amount of the suburban. This is expected as the urban type is providing about 13 times the number of rides as the rural type and almost 3 times that of the suburban type. The fare difference of the types is considerable. While the rural area generates nearly 4 times the amount per ride as the urban type, the urban areas generate nearly 10 times as much revenue overall. This is expected as urban areas consist of more densely populated areas and greater demands for transportation than suburban and rural areas.  
  
